@@ -1,4 +1,4 @@
-package com.soft.controller;
+package com.soft.billing.controller;
 
 import java.util.ArrayList;
 
